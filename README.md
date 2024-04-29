@@ -25,6 +25,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 ## Results:
 
+<img width="302" alt="PyBank Results" src="https://github.com/wwoliver7/python-challenge/assets/152826034/0bc8a436-021e-42f9-bd45-b529dbde2b5d">
 
 
 
@@ -44,3 +45,4 @@ The winner of the election based on popular vote
 ## Results:
 
 
+<img width="274" alt="PyPoll results" src="https://github.com/wwoliver7/python-challenge/assets/152826034/b418b4ab-5ae4-4608-bc6f-e31b509936e2">
